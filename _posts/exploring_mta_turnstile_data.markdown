@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyzing MTA Turnstile Data_"
+title: "Analyzing MTA Turnstile Data"
 date: 2016-09-25
 categories: 
   - Explorations
