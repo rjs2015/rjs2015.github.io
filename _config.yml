@@ -17,7 +17,7 @@ name: RJ Singh
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://github.com/rjs2015
 
 # Build settings
 include: ["_categories"]
