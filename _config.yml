@@ -16,8 +16,8 @@ default_img:
 name: RJ Singh
 profile_img: 
 profile: 
-social: linkedin, github
-  linkedin: https://www.linkedin.com/in/rjsingh
+social: linkedin
+  https://www.linkedin.com/in/rjsingh
   github: https://github.com/rjs2015
 
 # Build settings
