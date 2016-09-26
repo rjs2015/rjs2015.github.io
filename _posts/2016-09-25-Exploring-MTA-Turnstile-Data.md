@@ -16,4 +16,8 @@ The client in our project, WomenTechWomenYes (WTWY), works to grow the participa
 
 #### Initial Insights
 
-![Ridership Share]({{ site.url }}/assets/Ridership_Share.png)
+With a few years of data available, it seemed useful to start with an exploration of seasonal trends - both to help WTWY identify months with highest ridership, and to define a more manageable time period for our analysis.  Looking back through 2015, there was a clear trend of above average ridership from March-May, drawing our attention to this time period in 2016.  It was also helpful to get perspective on the variation in ridership over the course of an average week.  Plotting daily ridership over our time period revealed a steep decline every weekend, with ridership peaking mid-week.
+
+Shifting to ridership at the station level, the first big question was which stations saw the most traffic.  While the answer was intuitive, with Penn Station and Grand Central rising to the top, the disproportionate share of ridership captured by large stations was slightly surprising.  The top 100 stations (sorted by ridership) accounted for roughly 60% of total traffic, with the top 5 stations accounting for more than 10%.
+
+![]({{ site.url }}/assets/Ridership_Share.png)
