@@ -8,7 +8,7 @@ description:
 image: http://media.nbcnewyork.com/images/1200*746/subway-map-half.jpg
 image-sm:
 ---
-I just completed my first week of the [Metis] (http://www.thisismetis.com/data-science-bootcamps) data science bootcamp, in which we dived into the details of data analysis with python, pandas, matplotlib, and other tools.  The program structures its curriculum around a few projects, the first of which (Project Benson) had us working with MTA Turnstile Data to help a fictional non-profit client manage street team deployment to maximize outreach.
+I just completed my first week of the [Metis] ({{http://www.thisismetis.com/data-science-bootcamps}}) data science bootcamp, in which we dived into the details of data analysis with python, pandas, matplotlib, and other tools.  The program structures its curriculum around a few projects, the first of which (Project Benson) had us working with MTA Turnstile Data to help a fictional non-profit client manage street team deployment to maximize outreach.
 
 #### The Challenge
 
