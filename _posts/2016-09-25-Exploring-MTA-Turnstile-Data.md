@@ -24,13 +24,13 @@ Shifting to ridership by station, the first big question was which stations saw 
 
 #### Outreach Strategy
 
-While the 5 stations boxed above are all worth allocating resources to, we need a little more detail around how to activate for each one. Categorizing them based on similar traffic patterns seemed like the best way to devise effective targeting strategies.  One method of categorization could involve looking at traffic distribution by day of the week and time of day for each station.  Seaborn has a handy heatmap implentation that I found well-suited for this analysis.
+While the 5 stations boxed above are all worth allocating resources to, we need a little more detail around how to activate for each one. Categorizing them based on similar traffic patterns seemed like the best way to devise effective targeting strategies.  One method of categorization could involve looking at traffic distribution by day of the week and time of day for each station.  Seaborn has a handy heatmap implementation that I found well-suited for this analysis.
 
 ![]({{ site.url }}/assets/Heatmaps.png)
 
 The MTA records their ridership data by station mostly in four hour blocks.  While counts are usually recorded at 8am, 12pm, 4pm, 8pm, etc., stations also have instances of counts recorded at different times.  These times vary between stations, and are depicted on the x-axis.
 
-The above heatmaps highlighted a distinction between commuter stations - like Grand Central, Penn Station, and Herald Square - that saw most of their traffic during the weekday mornings and evenings, and general purpose stations (14 St-Union Square and Times Square) that experienced a good share of their traffic in the afternoon and had a less steep dropoff on the weekends.  This distinction partly indicated that focus could be shifted away from commuter stations in the afternoon, and was corroborated by geographic visualizations (made in Tableau) showing traffic more widely distributed during this time.
+The above heatmaps highlighted a distinction between commuter stations - like Grand Central, Penn Station, and Herald Square - that saw most of their traffic during the weekday mornings and evenings, and general purpose stations (14 St-Union Square and Times Square) that experienced a good share of their traffic in the afternoon and had a less steep dropoff on the weekends.  This distinction partly indicated that focus could be shifted away from commuter stations in the afternoon, and was corroborated by geographic visualizations (made in Tableau) showing exits more widely distributed during this time.
 
 ![]({{ site.url }}/assets/Geo_MTA.png)
 
