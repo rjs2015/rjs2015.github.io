@@ -16,3 +16,4 @@ The client in our project, WomenTechWomenYes (WTWY), works to grow the participa
 
 #### Initial Insights
 
+![Ridership Share](https://github.com/rjs2015/rjs2015.github.io/blob/master/_screenshots/Ridership_Share.png "Ridership Share")
