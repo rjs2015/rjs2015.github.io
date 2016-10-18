@@ -22,5 +22,15 @@ A basic exploration of trends in movies' weekly revenue uncovered a fairly consi
 
 This observation had interesting implications for the modeling of weekly revenue.  If we could fit an exponential decay to nearly every movie's revenue, and then build a model to estimate the decay parameter beta (based on a movie's attributes, cast, etc.), we might be able to predict movie revenues for each week after release.  Another important assumption in this effort was that data on opening weekend gross would be available.  
 
-![]({{http://g.recordit.co/u9srgyhPb5.gif}})
+To confirm the consistency of this observation, the below plot points out that around 65% of movie revenues can be estimated with less than 20% error by fitting a no-frills exponential decay model of the form: N0 * e^(-β * t).  
+
+![]({{ site.url }}/assets/Errors.png)
+
+For the other movies, the exponential decay model seems to be tripped up by a limited release, where a movie is in fewer theaters on its release date than at its widest distribution.  In fact, plotting "release strategy", a measure of the ratio of theaters upon a movie's release to that for its widest distribution, highlights a strong correlation with how well the simple exponential decay model fits.
+
+![]({{ site.url }}/assets/Theater_Share.png)
+
+After the point of widest distribution, a movie's weekly returns tend to decay exponentially, falling in line with our assumption.  
+
+
 
