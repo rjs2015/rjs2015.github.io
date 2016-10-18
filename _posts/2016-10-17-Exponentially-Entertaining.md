@@ -24,11 +24,11 @@ This observation had interesting implications for the modeling of weekly revenue
 
 To confirm the consistency of this observation, the below plot points out that around 65% of movie revenues can be estimated with less than 20% error by fitting a no-frills exponential decay model of the form: N0 * e^(-β * t).  
 
-![]({{ site.url }}/assets/Ridership_Share.png)
+![]({{ site.url }}/assets/Errors.png)
 
 For the other movies, the exponential decay model seems to be tripped up by a limited release, where a movie is in fewer theaters on its release date than at its widest distribution.  In fact, plotting "release strategy", a measure of the ratio of theaters upon a movie's release to that for its widest distribution, highlights a strong correlation with how well the simple exponential decay model fits.
 
-![]({{ site.url }}/assets/Ridership_Share.png)
+![]({{ site.url }}/assets/Theater_Share.png)
 
 After the point of widest distribution, a movie's weekly returns tend to decay exponentially, falling in line with our assumption.  
 
