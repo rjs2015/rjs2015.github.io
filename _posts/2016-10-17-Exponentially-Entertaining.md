@@ -8,7 +8,7 @@ description:
 image: http://ftp.gnome.org/mirror/addons.superrepo.org/v7/addons/plugin.video.mdfm/fanart.jpg
 image-sm:
 ---
-Three weeks into Metis, and we've got another project under our belt, this time using web scraping, pandas, and regressions to explore movie data.  Box Office Mojo keeps a pretty extensive record of weekly box office gross, so I thought it would be interesting to dig into this a little further.
+Three weeks into Metis, and we've got another project under our belt, this time using web scraping, pandas, and regressions to explore movie data.  Box Office Mojo keeps a pretty extensive record of weekly box office gross, so I thought it would be interesting to dig into this.
 
 #### Motivation
 
