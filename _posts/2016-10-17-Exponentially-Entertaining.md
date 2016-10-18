@@ -22,5 +22,5 @@ A basic exploration of trends in movies' weekly revenue uncovered a fairly consi
 
 This observation had interesting implications for the modeling of weekly revenue.  If we could fit an exponential decay to nearly every movie's revenue, and then build a model to estimate the decay parameter beta (based on a movie's attributes, cast, etc.), we might be able to predict movie revenues for each week after release.  Another important assumption in this effort was that data on opening weekend gross would be available.  
 
-![]({{http://recordit.co/u9srgyhPb5}})
+![]({{http://g.recordit.co/u9srgyhPb5.gif}})
 
