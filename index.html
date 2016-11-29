@@ -29,7 +29,7 @@ layout: default
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
               <span class="preview__more">Read More</span>
-                {% if post.description %}
+                {% if post.description != 'none' %}
                   <a href="{{post.description}}" class="preview__link">
                   <span class="preview__more">Application</span>
                   </a>
