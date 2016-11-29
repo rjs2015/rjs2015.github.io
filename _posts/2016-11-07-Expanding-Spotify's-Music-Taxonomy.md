@@ -5,6 +5,6 @@ date: 2016-11-07
 categories: 
   - Explorations
 description: http://52.55.179.229:5000/
-image: (rjs.github.io/assets/spotify_categories.png)
+image: http://rjs.github.io/assets/spotify_categories.png
 image-sm:
 ---
