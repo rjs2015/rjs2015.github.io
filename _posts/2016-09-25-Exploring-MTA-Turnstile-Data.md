@@ -4,7 +4,7 @@ title: "Analyzing MTA Turnstile Data"
 date: 2016-09-25
 categories: 
   - Explorations
-description: 
+description: http://52.55.179.229:5001/
 image: http://media.nbcnewyork.com/images/1200*746/subway-map-half.jpg
 image-sm:
 ---
