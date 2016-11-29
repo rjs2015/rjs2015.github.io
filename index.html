@@ -15,8 +15,8 @@ layout: default
   <div>
     <header>
       <ul class="tabs">
-        <li class="tabs__item">Posts</li>
-        <li class="tabs__item">Categories</li>
+        <li class="tabs__item">Blog Posts</li>
+        <li class="tabs__item">Portfolio</li>
       </ul>
     </header>
 
@@ -29,6 +29,10 @@ layout: default
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
               <span class="preview__more">Read More</span>
+                {% if post.description %}
+                  <a href="{{post.description}}">
+                  <span class="preview__more">Application</span>
+                  </a>
             </a>
           </li>
         {% endfor %}
