@@ -12,7 +12,7 @@ Three weeks into Metis, and we've got another project under our belt, this time 
 
 #### Motivation
 
-Interested in using the weekly data, I brainstormed some relevant business questions, and was drawn to the idea of estimating weekly box office figures for a movie given general information on the film and some basic stats from its opening weekend.  This seemed like an intersting notion for a few reasons.  
+Interested in using the weekly data, I brainstormed some relevant business questions, and was drawn to the idea of estimating weekly box office figures for a movie given general information on the film and some basic stats from its opening weekend.
 
 If studios could model a movie's expected theatrical longevity, they could better optimize their distribution schedules and marketing timelines.  Estimates for later weeks could also help refine goals for opening weekend. Even theaters could benefit from these models, deciding which movies to phase out based on expected performance "x" weeks from release.  
 
