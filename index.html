@@ -30,9 +30,10 @@ layout: default
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
               <span class="preview__more">Read More</span>
                 {% if post.description %}
-                  <a href="{{post.description}}">
+                  <a href="{{post.description}}" class="preview__link">
                   <span class="preview__more">Application</span>
                   </a>
+                {% endif %}
             </a>
           </li>
         {% endfor %}
