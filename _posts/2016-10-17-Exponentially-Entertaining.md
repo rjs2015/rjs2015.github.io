@@ -4,7 +4,7 @@ title: "Exponentially Entertaining: Modeling Box Office Revenue"
 date: 2016-10-17
 categories: 
   - Explorations
-description: 
+description: none
 image: http://ftp.gnome.org/mirror/addons.superrepo.org/v7/addons/plugin.video.mdfm/fanart.jpg
 image-sm:
 ---
