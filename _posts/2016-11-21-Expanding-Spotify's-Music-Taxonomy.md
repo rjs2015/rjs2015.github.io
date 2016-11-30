@@ -9,7 +9,7 @@ image: http://www.fitncookies.com/wp-content/uploads/2014/09/genres-on-spotify.p
 image-sm:
 ---
 
-I'm a fan of Spotify, and use their intuitive playlist taxonomy to find good tunes.  But, there have been times when the preassembled 'Workout', 'Chill', or other mood-themed playlists haven't included the artists in my rotation.  For my third Metis project, I wanted to build a playlist creator using classification models to extend Spotify's themes to the artists I like.
+I'm a fan of Spotify, and frequently use their intuitive playlist taxonomy.  But, there have been times when the preassembled 'Workout', 'Chill', or other mood-themed playlists haven't included the artists in my rotation.  For my third Metis project, I wanted to build a playlist creator using classification models to extend Spotify's themes to the artists I like.
 
 #### Motivation
 
