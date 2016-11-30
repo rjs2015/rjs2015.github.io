@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soundtrack: Expanding Spotify's Music Taxonomy"
-date: 2016-11-07
+date: 2016-11-21
 categories: 
   - Applications
 description: http://52.55.179.229:5000/
