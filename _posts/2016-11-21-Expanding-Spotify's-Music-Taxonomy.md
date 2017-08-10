@@ -51,5 +51,5 @@ To help users manage and understand the composition of their playlist, I built a
 
 #### Future Work
 
-I hope to improve classification accuracy for smaller and overlapping themes down the line, and add some features to the app (like exporting playlists to Spotify).  [Try it out](http://52.55.179.229:5000/) (best viewed full-screen in Chrome) - I'd love to hear what you think!
+I hope to improve classification accuracy for smaller and overlapping themes down the line, and add some features to the app (like exporting playlists to Spotify).  [Try it out](http://52.55.179.229) (best viewed full-screen in Chrome) - I'd love to hear what you think!
 
